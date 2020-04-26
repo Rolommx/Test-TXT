@@ -1,1 +1,1 @@
- File 1 text 1 c
+ File for del delete.txt text 1 c
